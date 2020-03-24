@@ -1,4 +1,4 @@
-# google-forms-automatic-response
+# Customising automatic responses sent by Google Forms
 A template script to customise automatic responses sent by Google Forms
 
 
