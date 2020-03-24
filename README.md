@@ -18,6 +18,6 @@ In order to be able to use the script, follow these steps:
 1. Change the name of the project (in the upper-left corner) from Untitled project to some meaningful name.
 1. In the upper menu of the Script editor, click on the clock symbol (Current project's triggers).
 1. Click on Add Trigger
-1. Make sure that sendEmailOnSubmit (the name of the function you created) is selected in the first drop-down list ("Choose which function to run"). "From form" should be selected in the "Select event source" list. Select "On form submit" in the "Select event type" list.
+1. Make sure that sendEmailOnSubmit (the name of the function you created) is selected in the first drop-down list ("Choose which function to run"). "From form" should be selected in the "Select event source" list. **Select "On form submit" in the "Select event type" list.**
 1. Click on Save, if prompted, confirm that you trust this script
 1. Try submitting the form, for testing purposes try indicating an email address that is different from the address of your Google account.
