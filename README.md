@@ -14,7 +14,7 @@ In order to be able to use the script, follow these steps:
 
 1. Recreate the form at the link above in your Google account.
 1. In the upper menu click on three dots -> Script editor.
-1. In the script editor you should see the file Code.js containing an empty function definition - replace all code with the content of automatic_response.gs.
+1. In the script editor you should see the file Code.gs containing an empty function definition - replace all code with the content of automatic_response.gs.
 1. Change the name of the project (in the upper-left corner) from Untitled project to some meaningful name.
 1. In the upper menu of the Script editor, click on the clock symbol (Current project's triggers).
 1. Click on Add Trigger
