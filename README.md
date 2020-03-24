@@ -10,6 +10,8 @@ The script in automatic_response.gs is the script that runs behind this Google F
 
 The script sends a personalised email to the submitter using the provided email address, greeting him/her differently based on the choice he/she made, using his/her first name and mentioning explicitly one of the responses in the email text. In addition, a list of all questions and responses is also part of the email.
 
+The template can be of course customised and adapted further.
+
 In order to be able to use the script, follow these steps:
 
 1. Recreate the form at the link above in your Google account.
